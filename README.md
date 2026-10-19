@@ -24,6 +24,6 @@ This repository hosts the official public legal documents and Privacy Policy for
 
 For inquiries or questions regarding ToolsBD:
 - **Developer:** Rakib Sojib
-- **Email:** rakibsojib77777@gmail.com
+- **Telegram:** t.me/roki1277
 - **App Name:** ToolsBD
 - **Package Name:** `com.toolsbd.app`
